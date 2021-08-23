@@ -1,0 +1,98 @@
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2LAST\sh\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\l1.Form1.resources
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.AssemblyInfo.cs
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2LAST\sh\sh\obj\Debug\net5.0-windows\sh.genruntimeconfig.cache
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\l1.Form1.resources
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.Properties.Resources.resources
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.AssemblyInfo.cs
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.genruntimeconfig.cache
+C:\Users\vladi\Desktop\lab2LAST — копия\lab2\sh\obj\Debug\net5.0-windows\sh.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2\lab2\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\l1.Form1.resources
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.Properties.Resources.resources
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.AssemblyInfo.cs
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab2\lab2\sh\obj\Debug\net5.0-windows\sh.genruntimeconfig.cache
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab3\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab3\lab3\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\l1.Form1.resources
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.Properties.Resources.resources
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.AssemblyInfo.cs
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\lab3\lab3\sh\obj\Debug\net5.0-windows\sh.genruntimeconfig.cache
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.exe
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.deps.json
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.runtimeconfig.json
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.runtimeconfig.dev.json
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\l1.Form1.resources
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.Properties.Resources.resources
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.AssemblyInfo.cs
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.dll
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\ref\sh.dll
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.pdb
+C:\Users\vladi\Desktop\SysProg\SysProg_Lab3\sh\obj\Debug\net5.0-windows\sh.genruntimeconfig.cache

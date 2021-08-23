@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sh": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

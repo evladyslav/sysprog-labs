@@ -1,0 +1,20 @@
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\Debug\AnonSharp.exe.config
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\Debug\AnonSharp.exe
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\Debug\AnonSharp.pdb
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.AnonForm.resources
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.Properties.Resources.resources
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.exe
+C:\Users\vladi\Desktop\Q16P01 AnonPipes\AnonSharp\obj\Debug\AnonSharp.pdb
+C:\Users\vladi\Desktop\lab3\lab3\Debug\AnonSharp.exe.config
+C:\Users\vladi\Desktop\lab3\lab3\Debug\AnonSharp.exe
+C:\Users\vladi\Desktop\lab3\lab3\Debug\AnonSharp.pdb
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.AnonForm.resources
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.Properties.Resources.resources
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.exe
+C:\Users\vladi\Desktop\lab3\lab3\AnonSharp\obj\Debug\AnonSharp.pdb

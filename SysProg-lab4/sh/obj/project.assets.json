@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "lab4cpp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/lab4cpp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab4cpp.dll": {}
+        }
+      },
+      "NamedPipes/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/NamedPipes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NamedPipes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab4cpp/1.0.0": {
+      "type": "project",
+      "path": "../lab4cpp/lab4cpp.vcxproj",
+      "msbuildProject": "../lab4cpp/lab4cpp.vcxproj"
+    },
+    "NamedPipes/1.0.0": {
+      "type": "project",
+      "path": "../NamedPipes/NamedPipes.vcxproj",
+      "msbuildProject": "../NamedPipes/NamedPipes.vcxproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "NamedPipes >= 1.0.0",
+      "lab4cpp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vladi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\sh\\sh.csproj",
+      "projectName": "sh",
+      "projectPath": "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\sh\\sh.csproj",
+      "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\sh\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\lab4cpp\\lab4cpp.vcxproj": {
+              "projectPath": "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\lab4cpp\\lab4cpp.vcxproj"
+            },
+            "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\NamedPipes\\NamedPipes.vcxproj": {
+              "projectPath": "C:\\Users\\vladi\\Desktop\\SysProg\\SysProg-lab4\\NamedPipes\\NamedPipes.vcxproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
